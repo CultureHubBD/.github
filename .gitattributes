@@ -1,0 +1,10 @@
+.* export-ignore
+*.doc export-ignore
+*.docx export-ignore
+*.pdf export-ignore
+
+*.ai binary
+*.doc binary
+*.docx binary
+*.pdf binary
+
